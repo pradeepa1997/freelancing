@@ -1,0 +1,8 @@
+
+public class StringMatch
+{
+	public static int [] CheckStringMatch(char [] text, char [] pattern)
+	{
+		return null;
+	}
+}

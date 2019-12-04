@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FiveOverSeven",
+            "request": "launch",
+            "mainClass": "FiveOverSeven"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EgyptianFraction",
+            "request": "launch",
+            "mainClass": "EgyptianFraction"
+        }
+    ]
+}

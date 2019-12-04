@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pie",
+            "request": "launch",
+            "mainClass": "Pie"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FiveOverSeven",
+            "request": "launch",
+            "mainClass": "FiveOverSeven"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TwoOverThree",
+            "request": "launch",
+            "mainClass": "TwoOverThree"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThirtyOneOverThirty",
+            "request": "launch",
+            "mainClass": "ThirtyOneOverThirty"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SixOverSix",
+            "request": "launch",
+            "mainClass": "SixOverSix"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OneOverTwelve",
+            "request": "launch",
+            "mainClass": "OneOverTwelve"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EgyptianFraction",
+            "request": "launch",
+            "mainClass": "EgyptianFraction"
+        }
+    ]
+}
